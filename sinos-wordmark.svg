@@ -1,0 +1,13 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>sinos wordmark</title>
+  <desc>Original monochrome sinos wordmark with a geometric deployment-style mark.</desc>
+  <rect width="1600" height="520" rx="96" fill="#FFFFFF"/>
+  <g transform="translate(96 72) scale(0.3671875)">
+    <path d="M304 192H720C748.719 192 772 215.281 772 244V252C772 280.719 748.719 304 720 304H304C275.281 304 252 280.719 252 252V244C252 215.281 275.281 192 304 192Z" fill="#050505"/>
+    <path d="M284 336H378C406.719 336 430 359.281 430 388V396C430 424.719 406.719 448 378 448H284C255.281 448 232 424.719 232 396V388C232 359.281 255.281 336 284 336Z" fill="#050505"/>
+    <path d="M304 480H720C748.719 480 772 503.281 772 532V540C772 568.719 748.719 592 720 592H304C275.281 592 252 568.719 252 540V532C252 503.281 275.281 480 304 480Z" fill="#050505"/>
+    <path d="M646 624H740C768.719 624 792 647.281 792 676V684C792 712.719 768.719 736 740 736H646C617.281 736 594 712.719 594 684V676C594 647.281 617.281 624 646 624Z" fill="#050505"/>
+    <path d="M304 768H720C748.719 768 772 791.281 772 820V828C772 856.719 748.719 880 720 880H304C275.281 880 252 856.719 252 828V820C252 791.281 275.281 768 304 768Z" fill="#050505"/>
+  </g>
+  <text x="520" y="329" fill="#050505" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="208" font-weight="650" letter-spacing="0">sinos</text>
+</svg>
